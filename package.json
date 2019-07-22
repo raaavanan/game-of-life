@@ -1,0 +1,8 @@
+{
+  "name": "game-of-life",
+  "version": "1.0.0",
+  "description": "awesome wasm",
+  "main": "index.js",
+  "author": "Ganesh.u <ganesh.u@bookmyshow.com>",
+  "license": "MIT"
+}
